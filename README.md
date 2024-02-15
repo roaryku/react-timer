@@ -7,7 +7,7 @@
 <hr>
 - The app is build with react components and API<br>
 - API time used to check the time<br>
-- CSS work done for UI design part and flex box included for mobile devices updated 
+- CSS work done for UI design part and flex box included for mobile devices adaptive 
 <br>
 <hr>
 

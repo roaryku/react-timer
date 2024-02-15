@@ -1,3 +1,21 @@
+<h1>Timer</h1>
+<h3>React Timer</h3>
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24386b25-ef7c-4cab-830c-1c36124dd3e5/deploy-status)](https://rotimer.netlify.app/)
+
+<hr>
+- The app is build with react components and API<br>
+- API time used to check the time<br>
+- CSS work done for UI design part and flex box included for mobile devices updated 
+<br>
+<hr>
+
+<img width="1280" alt="Screenshot 2024-02-12 at 1 55 1" src="https://github.com/roaryku/react-timer/assets/119984393/ea05ce69-b9d9-4a19-9ffe-830e19738267">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
